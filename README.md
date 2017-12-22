@@ -10,3 +10,5 @@ This will automate login propcess to connect VPN. For best experiance keep appli
  ### OS X
  - This script can be made as *.app* through Automator.
  - I am using Alfred which have option to directly execute appe script instead of opening. 
+
+ If you want to make contribution, create PR or send me patch at nirmal@zymr.com
