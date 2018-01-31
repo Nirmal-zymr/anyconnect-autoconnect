@@ -1,3 +1,4 @@
+-- Copyright 2017 Nirmal Suthar
 -- 1. Place in ~/Library/Scripts and enable the Applescript menu via the Applescript Editor
 -- 2. Substitute "vpn.example.com" and "<my_pass>" for your VPN server and password
 -- 3. Open Security & Privacy System Preferences, go to Privacy, Accessibility
