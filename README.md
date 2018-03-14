@@ -9,6 +9,7 @@ This will automate login propcess to connect VPN. For best experiance keep appli
  - Code quality is no near good but it does the job very well.
  ### OS X
  - This script can be made as *.app* through Automator.
- - I am using Alfred which have option to directly execute appe script instead of opening. 
+ - I am using Alfred which have option to directly execute appe script instead of opening.
+ - connect_with_gauth: This script wil be used when you have VPN that usage gogle authenticator along with your VPN password as prefix 
 
  If you want to make contribution, create PR or send me patch at nirmal@zymr.com
